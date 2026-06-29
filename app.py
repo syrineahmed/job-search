@@ -22,10 +22,10 @@ col1, col2, col3 = st.columns(3)
 with col1:
     job_title = st.text_input("🔍 Job title", placeholder="Full Stack Developer")
 with col2:
-    location = st.text_input("📍 Location", placeholder="Tunis, Tunisia")
+    location = st.text_input("📍 Location", placeholder="Tunis, Paris, London...")
 with col3:
-    num_jobs = st.selectbox("📊 Number of results", [3, 5, 10])
-
+    num_jobs = st.number_input("📊 Number of results", min_value=1, max_value=20, value=5)
+    
 cv_skills = st.text_area(
     "💡 Your skills (optional — for better matching)",
     placeholder="React, Spring Boot, Docker, Python...",
