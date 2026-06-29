@@ -24,3 +24,7 @@ AI-powered job search tool that finds remote jobs and analyzes each one instantl
 
 ## Author
 Syrine Ahmed — [GitHub](https://github.com/syrineahmed)
+
+## Preview
+![App Screenshot](image.png)
+![Demo](demo.gif)
