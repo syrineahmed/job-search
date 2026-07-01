@@ -28,3 +28,6 @@ Syrine Ahmed — [GitHub](https://github.com/syrineahmed)
 ## Preview
 ![App Screenshot](image.png)
 ![Demo](demo.gif)
+
+## 🌐 Live Demo
+👉 [Try it here](https://job-search-syrineahmed.streamlit.app/)
